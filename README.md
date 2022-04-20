@@ -2,23 +2,23 @@
 
 **Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
 
-Submitted by: **NAME**
+Submitted by: **Jevic Kapuku Tshilumba**
 
-Time spent: **#** hours spent in total
+Time spent: **4** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: (https://glitch.com/edit/#!/mellow-skillful-minute?path=script.js%3A1%3A0)
 
 ## Required Functionality
 
 The following **required** functionality is complete:
 
-* [ ] Game interface has a heading (h1 tag), a line of body text (p tag), and four buttons that match the demo app
-* [ ] "Start" button toggles between "Start" and "Stop" when clicked. 
-* [ ] Game buttons each light up and play a sound when clicked. 
-* [ ] Computer plays back sequence of clues including sound and visual cue for each button
-* [ ] Play progresses to the next turn (the user gets the next step in the pattern) after a correct guess. 
-* [ ] User wins the game after guessing a complete pattern
-* [ ] User loses the game after an incorrect guess
+* [x] Game interface has a heading (h1 tag), a line of body text (p tag), and four buttons that match the demo app
+* [x] "Start" button toggles between "Start" and "Stop" when clicked. 
+* [x] Game buttons each light up and play a sound when clicked. 
+* [x] Computer plays back sequence of clues including sound and visual cue for each button
+* [x] Play progresses to the next turn (the user gets the next step in the pattern) after a correct guess. 
+* [x] User wins the game after guessing a complete pattern
+* [x] User loses the game after an incorrect guess
 
 The following **optional** features are implemented:
 
@@ -34,34 +34,36 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app!
+- [ I added some elements in my last Js functions.] List anything else that you can get done to improve the app!
 
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](gif1-link-here)
+![](http://g.recordit.co/1wfyWanlRz.gif)
 ![](gif2-link-here)
 ![](gif3-link-here)
 ![](gif4-link-here)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
+[1.	The first sources I used were my notes from computers science 250 which are about algorithm design, standards of the program style, debugging, and testing.  Extension of the control structures and data structures of the high-level language introduced in CSC 150.  Elementary data structures and conditional statements.  Topics from my class include advanced treatment of functions, data types such as arrays, and files. Also, I used https://stackoverflow.com to search for problems with the three languages I used as it was my first time using them.]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+[2.	It was for me the first time to use those three languages HTML, CSS, and JavaScript. There was a bit of fear on my part, but the concepts were the same as what I learned in class. There were arrays, If statements, functions, prototype functions, definitions, variables, and constant variables Also, one of the challenges, when I was working, was to connect my code to what I was learning in class. JavaScript is a little like C++, and I made it my duty to find the commonalities between the two languages to make it easy to work with. That is, to find out how what I know in C++ is defined in JavaScript because they are both similar. I was also a little bit mistaken in thinking that HTML is like Python, after trying to make a connection, I understood that it's two different languages. CSS is a little bit new to me, I recognize its importance because it helps to contain definitions for how the contents of a web page should look, I committed to watching instruction videos to understand how it works and they allowed me to understand more clearly Html, CSS, and JavaScript languages. 
+
+]
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+[3.	I have a question that came to my mind while I was working, why are three languages that we don't study in class come back in our professional life work. HTML, CSS, and JavaScript according to my research seem to be used often in the creation of websites and applications. Also, I was wondering if we can do this project with Visual Studio and the coding part with C or C++ because I have worked with Visual Studio a few times in creating a game and an application in my Computer Science 100 Lab class. Visual studio has options that can help to create the display, the colors of the game and code with only JavaScript or C++. But the benefits of this work are that HTML and CSS allow me to code and have many options on how the application will look because it is possible to create everything with code and decide the details of the application look. That's how I realized that using HTML, CSS, and JavaScript for a game or an application is a really good choice. ]
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+[4.	If I had to work on this project more, I would put a number in each rectangle and each number would represent a sound and ask the users which number corresponded to the sound they were waiting for I would add a function that would display a random number as the player enter a note. Then I would ask the player what random number was displayed in order of appearance. If they succeed, then they move to the next round. For this function, I would use a rand () function to create a random number and then save it in an array. Display them in order as the player tap a note then use a loop to compare the player input with the random number in the array. ]
 
 
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://www.loom.com/share/c85abfe8bdd143fd8743199ff1d641f0)
 
 
 ## License
